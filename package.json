@@ -2,6 +2,9 @@
   "name": "dashboard-api",
   "version": "1.0.0",
   "description": "",
+  "directories": {
+    "lib": "src/"
+  },
   "files": [
     "index.js",
     "src/"
