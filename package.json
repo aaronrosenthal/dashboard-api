@@ -1,0 +1,25 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronrosenthal/dashboard-api.git"
+  },
+  "author": "Aaron Rosenthal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronrosenthal/dashboard-api/issues"
+  },
+  "homepage": "https://github.com/aaronrosenthal/dashboard-api#readme",
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
