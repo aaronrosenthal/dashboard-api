@@ -2,6 +2,10 @@
   "name": "dashboard-api",
   "version": "1.0.0",
   "description": "",
+  "files": [
+    "index.js",
+    "src/"
+  ],
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./**/*.js",
@@ -18,6 +22,7 @@
   },
   "homepage": "https://github.com/aaronrosenthal/dashboard-api#readme",
   "devDependencies": {
+    "angular": "^1.6.1",
     "eslint": "^3.14.1",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0"
