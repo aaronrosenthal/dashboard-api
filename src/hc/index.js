@@ -1,4 +1,4 @@
-import angular from 'angular';
+require('angular');
 
 const MODULE_NAME = 'hc';
 
